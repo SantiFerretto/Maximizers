@@ -4,7 +4,7 @@ function Trending (){
     return (
         <section style={{padding: "0.5rem 2rem", marginBottom:"2rem"}}>
         <div style={{display:"flex", gap:"0.6rem", marginBottom:"1em"}}>
-                <img src="trending.png"/>
+                <img src="Trending.png"/>
                 <h2>Trending</h2>
             </div>
         <section className="trending-section">
