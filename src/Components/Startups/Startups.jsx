@@ -18,36 +18,36 @@ function Startups (){
                 <div style={{display:"flex", width:"100%", gap:"1em", height:"auto", marginBottom:"2rem"}}>
                     <a href="https://mybraiin.framer.website" style={{width:"50%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
-                            <img className="img" src="img.png" style={{height:"100%"}}/>
+                            <img className="img" src="braiin_logo2.png" style={{height:"100%"}}/>
                         </div>
                         <div className='card-info'>
                             <img src="in.png"/>
                             <div className='card-detail'>
-                                <h3>Flutso</h3>
+                                <h3>Braiin</h3>
                                 <p>Available for Work</p>
                             </div>
                         </div>
                     </a>
                     <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
-                            <img className="img" src="img.png" style={{height:"100%"}}/>
+                            <img className="img" src="quokka.png" style={{height:"100%"}}/>
                         </div>
                         <div className='card-info'>
                             <img src="in.png"/>
                             <div className='card-detail'>
-                                <h3>Fluasasastso</h3>
+                                <h3>WearMeleon</h3>
                                 <p>Available for Work</p>
                             </div>
                         </div>
                     </a>
                     <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
-                            <img className="img" src="img.png" style={{height:"100%"}}/>
+                            <img className="img" src="jp_logo.png" style={{height:"100%"}}/>
                         </div>
                         <div className='card-info'>
                             <img src="in.png"/>
                             <div className='card-detail'>
-                                <h3>Fluasasastso</h3>
+                                <h3>JimPal</h3>
                                 <p>Available for Work</p>
                             </div>
                         </div>
@@ -56,36 +56,36 @@ function Startups (){
                 <div style={{display:"flex", width:"100%", gap:"1em", height:"auto", marginBottom:"2rem"}}>
                     <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
-                            <img className="img" src="img.png" style={{height:"100%"}}/>
+                            <img className="img" src="random_bites.png" style={{height:"100%"}}/>
                         </div>
                         <div className='card-info'>
                             <img src="in.png"/>
                             <div className='card-detail'>
-                                <h3>Fluasasastso</h3>
+                                <h3>Random Bites</h3>
                                 <p>Available for Work</p>
                             </div>
                         </div>
                     </a>
                     <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
-                            <img className="img" src="img.png" style={{height:"100%"}}/>
+                            <img className="img" src="live2gether.png.png" style={{height:"100%"}}/>
                         </div>
                         <div className='card-info'>
                             <img src="in.png"/>
                             <div className='card-detail'>
-                                <h3>Fluasasastso</h3>
+                                <h3>Live2gether</h3>
                                 <p>Available for Work</p>
                             </div>
                         </div>
                     </a>
                     <a href="/papa" style={{width:"50%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
-                            <img className="img" src="img.png" style={{height:"100%"}}/>
+                            <img className="img" src="logo_fixit.png" style={{height:"100%"}}/>
                         </div>
                         <div className='card-info'>
                             <img src="in.png"/>
                             <div className='card-detail'>
-                                <h3>Flutso</h3>
+                                <h3>Fix it</h3>
                                 <p>Available for Work</p>
                             </div>
                         </div>
