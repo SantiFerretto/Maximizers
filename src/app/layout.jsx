@@ -7,7 +7,7 @@ export default function RootLayout({ children }) {
             <img src="maximizers-logo-png.png" style={{height:"90%"}} />
           </div>
           <div style={{padding:"0.75rem", backgroundColor:"#fe912a"}}>
-            <button src="https://docs.google.com/forms/d/1GGcF1Ig_dkLBEoil35EfNrNX5yDvkLc1K4ERQG4EalQ" style={{height:"1.5em", backgroundColor:"#fe912a", fontWeight:"900", border:"none"}}>PROMOCIONATE</button>
+            <button src="https://forms.gle/EqirDqrE2Pcb62Vk7" style={{height:"1.5em", backgroundColor:"#fe912a", fontWeight:"900", border:"none"}}>PROMOCIONATE</button>
           </div>
         </nav>
         {children}
