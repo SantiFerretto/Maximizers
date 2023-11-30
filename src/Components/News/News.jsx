@@ -6,7 +6,7 @@ function News (){
                 <h2>New</h2>
             </div>
         <section className="trending-section">
-        <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
+        <a href="https://jimpal.vercel.app" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
                             <img className="img" src="jp_logo.png" style={{height:"100%"}}/>
                         </div>
@@ -18,7 +18,7 @@ function News (){
                             </div>
                         </div>
                     </a>
-            <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
+            <a href="https://quokka-software.vercel.app/es/wearmeleon" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
                             <img className="img" src="quokka.png" style={{height:"100%"}}/>
                         </div>
@@ -30,7 +30,7 @@ function News (){
                             </div>
                         </div>
                     </a>
-            <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
+            <a href="https://mybraiin.framer.website" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
                             <img className="img" src="braiin_logo.png" style={{height:"100%"}}/>
                         </div>
@@ -42,7 +42,7 @@ function News (){
                             </div>
                         </div>
                     </a>
-            <a href="/papa" style={{width:"25%", height:"auto", textDecoration:"none"}}>
+            <a href="http://random-bites.vercel.app" style={{width:"25%", height:"auto", textDecoration:"none"}}>
                         <div style={{ height:"12rem",overflow:"hidden"}}>
                             <img className="img" src="random_bites.png" style={{height:"100%"}}/>
                         </div>
